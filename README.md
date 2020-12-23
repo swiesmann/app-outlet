@@ -16,3 +16,4 @@ If your distro doesn't support the available packages you can dowload and compil
 - [Le store Linux App Outlet pour paquets universels (in french)](https://www.youtube.com/watch?v=0JGLPieBSN0)
 - [edivaldobrito (in portuguese)](https://www.edivaldobrito.com.br/como-instalar-a-linux-app-store-app-outlet-no-linux/)
 - [funkyspacemonkey (in english)](https://www.funkyspacemonkey.com/app-outlet-a-universal-linux-app-store)
+- [DistroTube (in english)](https://youtu.be/6chA0L_AT6k?t=732)
